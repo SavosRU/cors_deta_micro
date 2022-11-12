@@ -6,7 +6,7 @@
   "author": "Rob Wu <rob@robwu.nl>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SavosRU/cors_deta_micro/cors-anywhere.git"
+    "url": "https://github.com/SavosRU/cors_deta_micro.git"
   },
   "bugs": {
     "url": "https://github.com/Rob--W/cors-anywhere/issues/",
