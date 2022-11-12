@@ -1,0 +1,18 @@
+{
+    "name": "cors_deta_micro",
+    "description": "Fork of the cors-anywhere, modified to Deta's Micro", 
+    "env": [
+        {
+            "key": "CORSANYWHERE_BLACKLIST",
+            "description": "Black List",
+            "value": "https://google.ru,https://google.com",
+            "required": true
+        },
+        {
+            "key": "CORSANYWHERE_WHITELIST",
+            "description": "White List",
+            "value": "chrome-extension://eikacmmilhlllipaeeldikllondegcpb,http://localhost,http://127.0.0.1",
+            "required": true
+        }
+    ]
+}
